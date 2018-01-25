@@ -1,0 +1,39 @@
+!SESSION 2018-01-24 22:51:10.513 -----------------------------------------------
+eclipse.buildId=4.7.2.M20171130-0510
+java.version=1.8.0_131
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=pl_PL
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/dawiddelimata/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -keyring /Users/dawiddelimata/.eclipse_keyring
+
+!ENTRY org.eclipse.core.net 1 0 2018-01-24 22:51:24.195
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.springsource.ide.eclipse.commons.frameworks.core 0 0 2018-01-24 22:51:32.555
+!MESSAGE Result of converting legacy STS 2.x workspace preferences to 3.x
+!SUBENTRY 1 org.springsource.ide.eclipse.commons.frameworks.core 0 0 2018-01-24 22:51:32.555
+!MESSAGE Converted legacy STS plugin preferences
+!SUBENTRY 1 unknown 0 0 2018-01-24 22:51:32.555
+!MESSAGE OK
+!SUBENTRY 1 org.springsource.ide.eclipse.commons.frameworks.core 0 0 2018-01-24 22:51:32.555
+!MESSAGE Converted legacy Roo plugin state locations
+!SUBENTRY 1 org.springsource.ide.eclipse.commons.frameworks.core 0 0 2018-01-24 22:51:32.555
+!MESSAGE Converted legacy STS plugin state locations
+
+!ENTRY com.android.ide.eclipse.ddms 4 0 2018-01-24 22:51:32.814
+!MESSAGE DDMS files not found: /Users/dawiddelimata/Library/Android/sdk/tools/hprof-conv /Users/dawiddelimata/Library/Android/sdk/tools/traceview 
+
+!ENTRY com.android.ide.eclipse.ddms 4 0 2018-01-24 22:51:32.819
+!MESSAGE DDMS files not found: /Users/dawiddelimata/Library/Android/sdk/tools/hprof-conv /Users/dawiddelimata/Library/Android/sdk/tools/traceview 
+
+!ENTRY org.eclipse.launchbar.core 2 0 2018-01-24 22:51:33.763
+!MESSAGE Enablement expression is missing for descriptor type org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2018-01-24 22:51:33.764
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2018-01-24 22:51:33.764
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.update.configurator 4 0 2018-01-24 22:51:37.683
+!MESSAGE Can't find bundle for base name feature, locale pl_PL
